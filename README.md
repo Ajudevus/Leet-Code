@@ -1,5 +1,5 @@
 # Leet-Code
-1. 3.Sum
+1. 3.Sum \n
   The problem requires you to return vector of triplet vector whose sum of intergers equals 0. 
   Two - pointer approach
   -> Sort the array.
